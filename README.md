@@ -2,8 +2,9 @@
 
 A full-stack, team-based task management application with a secure REST API, real-time database, and strict workflow enforcement.
 
-![Task Management System Screenshot](./login_page.png) 
-*(Note: Replace `screenshot.png` with an actual image of your project in this folder)*
+![Login](./login_page.png) 
+![Dashboard](./Dashboard.png) 
+
 
 ## Tech Stack
 
@@ -22,7 +23,6 @@ PORT=5000
 SUPABASE_URL=https://<your-project-ref>.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=<your-service-role-key>
 ```
-*(You can copy this structure from `backend/.env.example`)*
 
 ### Frontend (`frontend/.env`)
 ```env
@@ -30,7 +30,6 @@ VITE_SUPABASE_URL=https://<your-project-ref>.supabase.co
 VITE_SUPABASE_ANON_KEY=<your-anon-key>
 VITE_API_URL=http://localhost:5000/api
 ```
-*(You can copy this structure from `frontend/.env.example`)*
 
 ## How to Run Locally
 
