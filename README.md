@@ -2,7 +2,7 @@
 
 A full-stack, team-based task management application with a secure REST API, real-time database, and strict workflow enforcement.
 
-![Task Management System Screenshot](./screenshot.png) 
+![Task Management System Screenshot](./login_page.png) 
 *(Note: Replace `screenshot.png` with an actual image of your project in this folder)*
 
 ## Tech Stack
